@@ -15,3 +15,15 @@ A Folder which contains your files.
 ## Commit
 
 Saves what you wrote in a file.
+
+## Clone
+
+Make a copy of entire repo from remote to local.
+
+## Push
+
+Send commits from local to remote.
+
+## Pull
+
+Receive commits from remote to local.
