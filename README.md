@@ -27,3 +27,38 @@ Send commits from local to remote.
 ## Pull
 
 Receive commits from remote to local.
+
+# Commands
+
+## PWD
+
+Print Working Directory
+Tells you where you are
+
+## ls
+
+List
+
+## cd
+
+Change directory
+Navigates to that directory
+
+## mkdir
+
+Make directory (folder)
+
+## rmdir
+
+Remove directory (folder)
+
+## .. 
+
+Represents the parent directory
+
+
+
+
+
+
+
