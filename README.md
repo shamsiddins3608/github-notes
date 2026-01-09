@@ -52,12 +52,29 @@ Make directory (folder)
 
 Remove directory (folder)
 
-## .. 
+## ..
 
 Represents the parent directory
 
+## git clone url
 
+Using the SSH URL, clone into whichever directory you want
 
+## git status
+
+Command to see which files have been edited since the last commit (they will be red)
+
+## git add file.ext
+
+Add file(s) to the stage to be commited
+
+## git commit -m
+
+Take a 'snapshot' of the files on the stage
+
+## git push
+
+Send any new commits to github.com (Not neccessary)
 
 
 
